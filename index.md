@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: tidzo_profile.jpg
 published: true
 ---
 
